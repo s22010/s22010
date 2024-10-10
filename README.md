@@ -1,5 +1,13 @@
-## Hi there 👋
-
+## Hi there 👋 
+i'm yang seung kwon and student.
+- 🔭 I’m currently working on gwangju software mesiter high school.
+- 🌱 I’m currently learning data analysis.
+- 👯 I’m looking to collaborate on friends.
+- 🤔 I’m looking for help with coding.
+- 💬 Ask me about programming.
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **s22010/s22010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
